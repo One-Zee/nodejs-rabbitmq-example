@@ -18,9 +18,11 @@ https://nodejs.org/en/download/package-manager/
 # Run Docker Containers Project
 
 Run rabbitmq and mongo docker container In project folder
+
 '''
 $ docker-compose -f docker-compose.yml up
 '''
+
 # Build a project
 
 In project folder get node dependencies
