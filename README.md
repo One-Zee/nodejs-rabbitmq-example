@@ -21,7 +21,8 @@ Run rabbitmq and mongo docker container In project folder
 
 $ docker-compose -f docker-compose.yml up
 
-Test producer
+# Test producer
+
 $ nodejs sender.js
 
 # Verify
