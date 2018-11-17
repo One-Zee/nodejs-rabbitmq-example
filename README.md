@@ -15,16 +15,17 @@ Install nodejs and npm package manager. See at
 
 https://nodejs.org/en/download/package-manager/
 
-# Start Project
+# Run Project
 
-Run rabbitmq and mongo docker container
-In project folder
+Run rabbitmq and mongo docker container In project folder
+
 $ docker-compose -f docker-compose.yml up
 
 Test producer
 $ nodejs sender.js
 
 # Verify
+
 In rabbitmq management console login with admin/admin username and password at
 
 http://localhost:15672
