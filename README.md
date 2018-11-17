@@ -44,5 +44,6 @@ In rabbitmq management console login with admin/admin username and password at
 
 http://localhost:15672
 
-See in hello queue for a messages
+See in hello queue for a messages.
+
 In Receiver console you will see the messages sent by sender.
