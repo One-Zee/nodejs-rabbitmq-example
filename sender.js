@@ -22,6 +22,6 @@ function producer (){
   });
 }
 
-// This is Async call
+// This is Async call - low show before
 producer();
 console.log("Please wait, I'm sending message,...")
