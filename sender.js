@@ -1,3 +1,5 @@
+/* Sender */
+
 const uuidv1 = require('uuid/v1');
 var amqp = require('amqplib/callback_api');
 
